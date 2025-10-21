@@ -1,2 +1,2 @@
-# NeurIPS2025_KatFDE
+# Kernel-ATtention Fractional neural ODE network
 The code will be uploaded soon.
