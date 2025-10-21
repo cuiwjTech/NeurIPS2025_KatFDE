@@ -1,2 +1,2 @@
-# Kernel-ATtention Fractional neural ODE network
+# Kernel-ATtention Fractional Neural ODE Network
 The code will be coming soon.
